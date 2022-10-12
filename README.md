@@ -1,4 +1,4 @@
-# NFL Fantasy Football Projections
+# NFL Fantasy Football Projections - Ensemble Methods to Reinforcement & Machine Learning
 
 The purpose of this repo is to analyze NFL Fantasy Football data and project next years fantasy points using ML algorithms. This repo is a work in progress. Environment folder hosts our custom Gym environment for Reinforcement Learning. As of 10/8/2022 no RL model has been uploaded.
 
