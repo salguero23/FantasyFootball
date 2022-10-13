@@ -9,7 +9,10 @@ Rather than using only one model, the goal is to have an ensemble of multiple ma
 
 ## Table of Contents
 - Data
-- - hello
+  - 2021season.csv
+  - cleanedData.csv
+  - data.xlsx
+  - ensembleProjections.csv
 - Models
 
 
