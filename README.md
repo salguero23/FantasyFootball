@@ -11,6 +11,7 @@ Rather than using only one model, the goal is to have an ensemble of multiple ma
 - Data
   - Contains an asortment on csv and excel files. The raw data is contained within the "data.xlsx" file and our projections for the next season are held within the        "ensembleProjections.csv" file.
 - Models
+  - In regards to the machine learning section of the project, there are four pickled Sci-Kit Learn models. Subfolders contain an early iteration of several reinforcement learning models. 
 
 
 
