@@ -9,10 +9,7 @@ Rather than using only one model, the goal is to have an ensemble of multiple ma
 
 ## Table of Contents
 - Data
-  - 2021season.csv
-  - cleanedData.csv
-  - data.xlsx
-  - ensembleProjections.csv
+  - Contains an asortment on csv and excel files. The raw data is contained within the "data.xlsx" file and our projections for the next season are held within the        "ensembleProjections.csv" file.
 - Models
 
 
